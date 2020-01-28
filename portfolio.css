@@ -1,0 +1,13 @@
+body{
+    background-color: #303030;
+}
+.navbar-expand-lg {
+    font-size: large;
+    background-image: none;
+    background-color: #303030 !important;
+    font-weight:bold;
+}
+
+.navbar-nav {
+    margin-left:75%;
+}

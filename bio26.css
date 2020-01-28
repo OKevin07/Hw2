@@ -1,0 +1,37 @@
+h1{
+    background-color: black;
+    color:white;
+}
+body {
+    background-color:#303030;
+    font-weight:750;
+    color:black;
+    
+
+
+}
+.navbar-expand-lg {
+    color:red;
+    margin-left: 75%;
+    font-size: large;
+    background-image: none;
+    background-color: #303030 !important;
+    border-color: red;
+    border-width: 50px;
+}
+
+
+h2{
+    margin-left: 100px;
+    padding-top: 30px;
+}
+
+.mypic{
+    float:left;
+    flex-wrap: wrap;
+    height:300px;
+    width:400px;
+    padding:25px;
+    padding-top: 5px;
+
+}

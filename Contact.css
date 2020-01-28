@@ -1,0 +1,23 @@
+body{
+    background-color: #303030;
+
+}
+.navbar-expand-lg {
+    font-size: large;
+    background-image: none;
+    background-color: #303030 !important;
+    padding-bottom: 20px;
+    font-weight: bold;
+    color:red;
+}
+.form-group{
+    padding-right: 30%;
+    padding-left: 30%;
+    color:white;
+}
+.btn{
+    margin-left: 30%;
+}
+.navbar-nav {
+    margin-left:75%;
+}
