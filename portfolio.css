@@ -11,3 +11,13 @@ body{
 .navbar-nav {
     margin-left:75%;
 }
+
+.col-sm-6 {
+    column-width: 200px;
+    padding-top: 20px;
+    
+}
+img{
+    max-height:250px;
+    max-width:250px;
+}
