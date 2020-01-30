@@ -10,6 +10,11 @@ body{
     font-weight: bold;
     color:red;
 }
+.navbar-nav{
+text-align: end;
+
+
+}
 .form-group{
     padding-right: 30%;
     padding-left: 30%;
@@ -21,3 +26,4 @@ body{
 .navbar-nav {
     margin-left:75%;
 }
+
