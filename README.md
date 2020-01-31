@@ -1,1 +1,1 @@
-# Hw2
+This repository is dedicated to homework assigned on Week 2 of Coding Bootcamp. This is an updated version of previous repository featuring a basic about me page. Now has added portfolio page linking other repositories and a contact page as well.
